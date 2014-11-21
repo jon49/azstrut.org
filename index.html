@@ -5,7 +5,7 @@
 	<title>Document</title>
 	<link rel="stylesheet" href="/styles.css">
 	<link rel="stylesheet" href="/bower_components/fontawesome/css/font-awesome.min.css">
-	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic,300|Merriweather+Sans:400,300' rel='stylesheet' type='text/css'>
 </head>
 <body>
 
@@ -99,28 +99,6 @@ What do you do with your old, outdated computers and high-tech equipent? Donate 
 			</nav>
 		</div>
 	</footer>
-
-<script>
-var ws;
-function socket() {
-  ws = new WebSocket("ws://127.0.0.1:8080");
-  ws.onmessage = function ( e ) {
-    var data = JSON.parse(e.data);
-    if ( data.r ) {
-      location.reload();
-    }
-  };
-}
-setInterval(function () {
-  if ( ws ) {
-    if ( ws.readyState !== 1 ) {
-      socket();
-    }
-  } else {
-    socket();
-  }
-}, 1000);
-</script>
 
 </body>
 </html>

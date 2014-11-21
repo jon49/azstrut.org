@@ -2,6 +2,8 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	/*font-family: 'Merriweather Sans', sans-serif;*/
+	font-family: 'Lato', sans-serif;
 }
 
 header.primary-header {
@@ -28,6 +30,7 @@ div.top-nav {
 
 .top-nav span {
 	color: white;
+	font-family: 'lato';
 }
 
 .top-nav nav a {
@@ -56,7 +59,8 @@ div.main-nav {
 .main-nav p {
 	float: left;
 	color: black;  
-	font-family: lobster; 
+	font-family: 'lato';
+	font-weight: 300;
 	font-size: 40pt;
 	color: white;
 }
@@ -64,7 +68,9 @@ div.main-nav {
 .main-nav nav {
 	position: absolute;
 	top: 50%;
-	right: 50px; 
+	right: 50px;
+	font-family: 'lato';
+	font-weight: 300;
 	transform: translateY(-50%);
 	/*background-color: green; */
 }
@@ -102,18 +108,23 @@ main {
 	width: 960px;
 	margin: 0 auto;
 	text-align: center;
+	padding-top: 20px;
 }
 
 .breakouts div {
 	display: inline-block;
 	width: 250px;
-	height: 400px;
 	margin: 10px;
 	vertical-align: top;
 }
 
+.breakouts h2 {
+	font-weight: 300;
+}
+
 .breakouts div p {
 	padding: 10px;
+	text-align: initial;
 }
 
 .breakouts .about {
