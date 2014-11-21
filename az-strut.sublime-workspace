@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"comment",
+				"comment_type_id"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"in",
+				"invoice_id"
+			],
+			[
+				"cu",
+				"cust_id"
+			],
+			[
+				"inv",
+				"inv_id"
+			],
+			[
+				"invo",
+				"invoice"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"cust",
+				"cust_id"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"inovi",
+				"invoice_id"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"invoice",
+				"invoice_id"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"men",
+				"menuItemId"
+			],
+			[
+				"menu",
+				"menuItemIngredient"
+			],
+			[
+				"ing",
+				"ingredientId"
+			],
+			[
+				"me",
+				"menuId"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"ste",
+				"studentNames"
+			],
+			[
+				"stud",
+				"studentNames"
+			],
+			[
+				"pet",
+				"pet_type_id"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"getT",
+				"gettype"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te-a",
+				"text-align"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ca",
+				"carType"
+			],
+			[
+				"foo",
+				"foodType"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"per",
+				"person2"
+			],
+			[
+				"perso",
+				"person3"
+			],
+			[
+				"pe",
+				"person2"
+			],
+			[
+				"person",
+				"person0"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"array_",
+				"array_push"
+			],
+			[
+				"arr",
+				"array_keys"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"border-w",
+				"border-width"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"f",
+				"footer	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-width",
+				"border-top-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"boder-",
+				"border-top"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"e",
+				"el_dir"
+			],
+			[
+				"de",
+				"desired_dir"
+			],
+			[
+				"down",
+				"down"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"font-",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n</head>\n<body>\n\n	<header class=\"primary-header\">\n		<div class=\"top-nav\">\n			<div>\n				<nav></nav>\n			</div>\n		</div>\n		<div class=\"main-nav\">\n			<div>\n				<img src=\"\">\n				<nav></nav>\n			</div>\n		</div>\n		<div class=\"hero\">\n			<div></div>\n		</div>\n	</header>\n\n	<main>\n		<div></div>\n		<div></div>\n		<div></div>\n		<div></div>\n	</main>\n\n	<footer></footer>\n\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"edi",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"mak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php	",
+				"Set Syntax: PHP"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"setti",
+				"Preferences: Settings - Default"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bradflahive/Sites/mustache-adventure/bower_components/ReptileForms/dist/reptileforms.js",
+		"/Users/bradflahive/Sites/mustache-adventure/app/controllers/home.php",
+		"/Users/bradflahive/Sites/mustache-adventure/TASKS.md",
+		"/Users/bradflahive/Sites/mustache-adventure/app/templates/primary_header.php",
+		"/Users/bradflahive/Sites/mustache-adventure/app/templates/login.php",
+		"/Users/bradflahive/Sites/mustache-adventure/css/login.styles.css",
+		"/Users/bradflahive/Sites/mustache-adventure/app/controllers/login_controller.class.php",
+		"/Users/bradflahive/Sites/mustache-adventure/app/templates/master.php",
+		"/Users/bradflahive/Sites/mustache-adventure/css/styles.css",
+		"/Users/bradflahive/Sites/mustache-adventure/app/views/login_view.class.php",
+		"/Users/bradflahive/Desktop/profile-meetup.jpg",
+		"/Users/bradflahive/Sites/mustache-adventure/mockups/profile.html",
+		"/Users/bradflahive/Sites/mustache-adventure/index.php",
+		"/Users/bradflahive/Sites/mustache-adventure/app/templates/main_content.html",
+		"/Users/bradflahive/Sites/mustache-adventure/mockups/mark_styles.css",
+		"/Users/bradflahive/Sites/localhost/twitter_project/styles.css",
+		"/Users/bradflahive/Sites/localhost/twitter_project/index.html",
+		"/Users/bradflahive/Hosts/mustache-adventure.conf",
+		"/Users/bradflahive/Sites/mustache-adventure/.htaccess",
+		"/Users/bradflahive/Sites/localhost/animations.js",
+		"/Users/bradflahive/Sites/localhost/14.2/m2/browse.php",
+		"/Users/bradflahive/Sites/localhost/14.2/m2/products.php",
+		"/Users/bradflahive/Sites/localhost/14.2/m2/index.php",
+		"/Users/bradflahive/Sites/localhost/Project1/index.html",
+		"/Users/bradflahive/Sites/localhost/Project1/products.php",
+		"/Users/bradflahive/Sites/localhost/Project1/index.php",
+		"/Users/bradflahive/Sites/localhost/Project1/product.php",
+		"/Users/bradflahive/Sites/localhost/14.2/lessons/mysql/pets.sql",
+		"/Users/bradflahive/Sites/localhost/jquery/main.js",
+		"/Users/bradflahive/Library/Application Support/Sublime Text 3/Packages/User/js.sublime-snippet",
+		"/Users/bradflahive/Hosts/dba.conf",
+		"/Users/bradflahive/Sites/localhost/javascript/scripts.js",
+		"/Users/bradflahive/Sites/localhost/intro_js.html",
+		"/Users/bradflahive/Sites/localhost/html basics/forms_day_2.php",
+		"/Users/bradflahive/Sites/localhost/php basics/arrays.php",
+		"/Users/bradflahive/Sites/localhost/php basics/operators.php",
+		"/Users/bradflahive/Sites/localhost/html basics/forms_day_1.html",
+		"/Users/bradflahive/Sites/localhost/JSON day 1.json",
+		"/Users/bradflahive/Sites/localhost/css_basics/collapsing_margins.css",
+		"/Users/bradflahive/Sites/localhost/css_basics/collapsing_margins.html",
+		"/Users/bradflahive/Sites/localhost/14.2/practice/beutify.php",
+		"/Users/bradflahive/Sites/localhost/php basics/example3.php",
+		"/Users/bradflahive/Sites/localhost/php basics/example2.php",
+		"/Users/bradflahive/Sites/localhost/css_basics/first-design/design.css",
+		"/Users/bradflahive/Sites/localhost/css_basics/first-design/index.html",
+		"/Users/bradflahive/Sites/localhost/css_basics/first-design/setup.css",
+		"/Users/bradflahive/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bradflahive/Sites/localhost/14.2/php.ini",
+		"/Users/bradflahive/Sites/localhost/css_defaults/styles.css",
+		"/Users/bradflahive/Sites/localhost/Project1/dimension.png",
+		"/Users/bradflahive/Sites/localhost/index.php",
+		"/Users/bradflahive/Library/Application Support/Sublime Text 3/Packages/User/php.sublime-snippet",
+		"/Users/bradflahive/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bradflahive/Sites/localhost/14.2/Hello from 14.2",
+		"/Users/bradflahive/Sites/localhost/brad/index.html",
+		"/Users/bradflahive/Sites/localhost/html basics/index.html",
+		"/Users/bradflahive/Sites/localhost/html basics/index2.html",
+		"/Users/bradflahive/Sites/localhost/basics/index.html",
+		"/Users/bradflahive/Sites/localhost/basics/Hello from 14.2",
+		"/Users/bradflahive/Sites/test/index.html",
+		"/Users/bradflahive/Hosts/test.conf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p",
+			"1",
+			"tweet",
+			"purchase_date",
+			", '2014-10-01'",
+			"'2014-10-01'",
+			"purchase",
+			"gender",
+			"'M'",
+			"customerId",
+			"fieldValue",
+			"costumerId",
+			"ingredient",
+			"name",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"ingredientId",
+			"menuId",
+			"menuItem",
+			"str_replace",
+			"name",
+			"ingredient",
+			"menu",
+			"append",
+			"html",
+			"callback",
+			"person",
+			"isLoggedIn",
+			"_GET",
+			">';\n",
+			"</a>",
+			"span",
+			"li",
+			"span",
+			"li",
+			"<",
+			"span",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "az-strut.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Projects/gun_store.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

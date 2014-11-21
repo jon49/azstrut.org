@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header.primary-header {
+	
+}
+
+div.top-nav {
+	background-color: green;
+}
+
+.top-nav > div {
+	width: 960px;
+	margin: 0 auto;
+}
+
+div.main-nav {
+	background-color: orange;
+}
+
+.main-nav > div {
+	width: 960px;
+	margin: 0 auto;
+}
+
+div.hero {
+	background-color: red;
+}
+
+.hero > div {
+	width: 960px;
+	margin: 0 auto;
+}
+
+main {
+	background-color: green;
+}
+
+.breakouts {
+	width: 960px;
+	margin: 0 auto;
+}
+.breakouts div {
+	display: inline-block;
+	width: 250px;
+}
+
+.about {
+}

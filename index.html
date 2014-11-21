@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+	<header class="primary-header">
+		<div class="top-nav">
+			<div>
+				<nav>
+					<a href="">1</a>
+					<a href="">2</a>
+					<a href="">3</a>
+				</nav>
+			</div>
+		</div>
+		<div class="main-nav">
+			<div>
+				<img src="">
+				<nav>
+					<a href="">1</a>
+					<a href="">2</a>
+					<a href="">3</a>
+				</nav>
+			</div>
+		</div>
+		<div class="hero">
+			<div>df</div>
+		</div>
+	</header>
+
+	<main>
+		<div class="breakouts">
+			<div class="about">break1</div>
+			<div class="donate">break2</div>
+			<div class="programs">break3</div>
+		</div>
+		<div>
+			CRFasdas
+		</div>
+	</main>
+
+	<footer></footer>
+
+<script>
+var ws;
+function socket() {
+  ws = new WebSocket("ws://127.0.0.1:8080");
+  ws.onmessage = function ( e ) {
+    var data = JSON.parse(e.data);
+    if ( data.r ) {
+      location.reload();
+    }
+  };
+}
+setInterval(function () {
+  if ( ws ) {
+    if ( ws.readyState !== 1 ) {
+      socket();
+    }
+  } else {
+    socket();
+  }
+}, 1000);
+</script>
+
+</body>
+</html>
