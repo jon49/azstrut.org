@@ -5,41 +5,97 @@
 }
 
 header.primary-header {
-	
+	background-image: url("/images/child.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 div.top-nav {
-	background-color: green;
-	height: 40px;
+	background-color: rgb(22, 6, 39);
 }
 
 .top-nav > div {
 	width: 960px;
 	margin: 0 auto;
+	overflow: hidden;
+	/*background-color: rgba(255,255,255,0.5);*/
+}
+
+.top-nav nav {
+	/*background-color: yellow; */
+	float: right; 
+}
+
+.top-nav span {
+	color: white;
+}
+
+.top-nav nav a {
+	padding: 5px 5px; 
+	display: inline-block;
+	/*background-color: red; */
+	/*border-right: 1px solid white;*/
+	color: white; 
+}
+
+.top-nav nav a:last-child {
+	border: none;
 }
 
 div.main-nav {
-	background-color: orange;
-	height: 90px;
+	background-color: rgba(255,255,255,0.5);
 }
 
 .main-nav > div {
 	width: 960px;
 	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+}
+
+.main-nav p {
+	float: left;
+	color: black;  
+	font-family: lobster; 
+	font-size: 40pt;
+	color: white;
+}
+
+.main-nav nav {
+	position: absolute;
+	top: 50%;
+	right: 50px; 
+	transform: translateY(-50%);
+	/*background-color: green; */
+}
+
+.main-nav nav a {
+	padding: 5px 15px; 
+	display: inline-block;
+	/*background-color: red; */
+	border-right: 1px solid white;
+	text-decoration: none;
+	color: white;
+}
+
+.main-nav nav a:last-child {
+	border: none;
 }
 
 div.hero {
-	background-color: red;
-	height: 300px;
+	/*background-color: red;*/
 }
 
 .hero > div {
 	width: 960px;
+	height: 300px;
 	margin: 0 auto;
+	/*background-color: rgba(255,255,255,0.5);*/
 }
 
 main {
-	background-color: green;
+	background-color: rgb(230, 231, 235);
+	margin: 0 auto; 
 }
 
 .breakouts {
@@ -52,21 +108,57 @@ main {
 	display: inline-block;
 	width: 250px;
 	height: 400px;
-	margin: 10px
+	margin: 10px;
+	vertical-align: top;
+}
+
+.breakouts div p {
+	padding: 10px;
 }
 
 .breakouts .about {
-	background-color: lightgreen;
-}
-
-.breakouts .donate {
-	background-color: lightblue;
+	/*background-color: lightgreen;*/
 }
 
 .breakouts .programs {
-	background-color: lightpink;
+	/*background-color: lightpink;*/
 }
 
+.programs ul {
+	list-style-type: none; 
+}
+
+.breakouts .donate {
+	/*background-color: lightblue;*/
+}
+
+.donate h4 {
+	padding: 10px;
+}
+
+.donate ul {
+	list-style-type: none;
+}
+
+main div:last-child {
+	text-align: center;
+}
+
+footer {
+	background-color: red; 
+}
+footer > div {
+	background-color: blue; 
+	width: 960px;
+	margin: 0 auto; 
+	text-align: center;
+}
+
+footer nav a {
+	background-color: sandybrown;
+	padding: 10px 15px; 
+	display: inline-block;
+}
 
 
 
