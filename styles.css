@@ -79,7 +79,7 @@ div.main-nav {
 }
 
 .main-nav nav a {
-	padding: 5px 15px; 
+	padding: 0 15px; 
 	display: inline-block;
 	/*background-color: red; */
 	border-right: 1px solid white;
@@ -110,6 +110,11 @@ div.hero {
 main {
 	background-color: rgb(230, 231, 235);
 	margin: 0 auto; 
+}
+
+.whole-width {
+	width: 100%;
+	text-align: left;
 }
 
 .breakouts {
@@ -219,8 +224,33 @@ div.sponsors {
 	font-weight: 300;
 }
 
+/* Donate page*/
 
+.main-content {
+	width: 960px; 
+	margin: 0 auto; 
+	overflow: hidden;
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+	font-weight: 300;
+}
 
+.refurbish {
+	float: left;
+	width: 450px;
+	font-weight: 300;
+}
 
+.class-off {
+	float: right;
+	width: 450px;
+	font-weight: 300;
+}
 
+.honors {
+	width: 500px; 
+}
+.honors h2, h3, h4 {
+	margin: 5px 0 5px 0;
+}
 
