@@ -10,6 +10,7 @@ header.primary-header {
 
 div.top-nav {
 	background-color: green;
+	height: 40px;
 }
 
 .top-nav > div {
@@ -19,6 +20,7 @@ div.top-nav {
 
 div.main-nav {
 	background-color: orange;
+	height: 90px;
 }
 
 .main-nav > div {
@@ -28,6 +30,7 @@ div.main-nav {
 
 div.hero {
 	background-color: red;
+	height: 300px;
 }
 
 .hero > div {
@@ -42,10 +45,13 @@ main {
 .breakouts {
 	width: 960px;
 	margin: 0 auto;
+	text-align: center;
 }
+
 .breakouts div {
 	display: inline-block;
 	width: 250px;
+	height: 400px;
 }
 
 .about {
