@@ -3,7 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="/styles.css">
+	<link rel="stylesheet" href="/bower_components/fontawesome/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic,300|Merriweather+Sans:400,300' rel='stylesheet' type='text/css'>
 </head>
 <body>
 
@@ -11,61 +13,92 @@
 		<div class="top-nav">
 			<div>
 				<nav>
-					<a href="">1</a>
-					<a href="">2</a>
-					<a href="">3</a>
+					<span>Call Us: 480-222-4066</span>
+					<a href="www.azstrut.org">
+						<i class="fa fa-home"></i>
+					</a>
+					<a href="">
+						<i class="fa fa-envelope-o"></i>
+					</a>
+					<a href="">
+						<i class="fa fa-facebook-square"></i>
+					</a>
+					<a href="">
+						<i class="fa fa-twitter-square"></i>
+					</a>
 				</nav>
 			</div>
 		</div>
 		<div class="main-nav">
 			<div>
-				<img src="">
+				<p>AZ StRUT</p>
 				<nav>
-					<a href="">1</a>
-					<a href="">2</a>
-					<a href="">3</a>
+					<a href="">About</a>
+					<a href="">Programs</a>
+					<a href="">Donate</a>
+					<a href="">Contact Us</a>
 				</nav>
 			</div>
 		</div>
 		<div class="hero">
-			<div>df</div>
+			<div></div>
 		</div>
 	</header>
 
 	<main>
 		<div class="breakouts">
-			<div class="about">break1</div>
-			<div class="donate">break2</div>
-			<div class="programs">break3</div>
+			<div class="about">
+				<h2>Who We Are</h2>
+				<p>
+				Our Mission is to improve the competitiveness of Arizona’s technical workforce by:
+
+				Supporting applied learning in our educational systems through scholarships and donated electronics & technology
+				Providing refurbished equipment to education and community non-profit organizations
+				Promoting diversity through technical education and work experience
+				Disposing electronic waste responsibly
+				Advocating responsible recycling
+				</p>
+			</div>
+			<div class="programs">
+				<h2>What We Do</h2>
+				<p>
+				AzStRUT offers three pillars of Technical Development:
+				<ul>
+					<li><a href="">WorkPlace SKills</a></li>
+					<li><a href="">Scholars Program</a></li>
+					<li><a href="">Minor League Techie Camp</a></li>
+				</ul>
+				</p>
+			</div>
+			<div class="donate">
+				<h2>Donate</h2>
+				<h4>Give Your Old Computers a Whole New Life!</h4>
+				<p>
+What do you do with your old, outdated computers and high-tech equipent? Donate them to StRUT! We accept all computer related equipment, working or not - old or new. We use aging or broken computers and other equipment to teach technical students valuable high-tech skills. StRUT then donates the refurbished machines to Arizona non-profit organizations and schools. Whatever we can't reuse, we recycle responsibly.
+				</p>
+				<ul>
+					<li><a href="">Refurbishing Centers</a></li>
+					<li><a href="">Drop-off Locations</a></li>
+					<li><a href="">Donor Honors</a></li>
+				</ul>
+			</div>
+		<img src="images/sponsorbanner3.12.png">
 		</div>
 		<div>
-			CRFasdas
+			<p>CRF</p>
 		</div>
 	</main>
 
-	<footer></footer>
-
-<script>
-var ws;
-function socket() {
-  ws = new WebSocket("ws://127.0.0.1:8080");
-  ws.onmessage = function ( e ) {
-    var data = JSON.parse(e.data);
-    if ( data.r ) {
-      location.reload();
-    }
-  };
-}
-setInterval(function () {
-  if ( ws ) {
-    if ( ws.readyState !== 1 ) {
-      socket();
-    }
-  } else {
-    socket();
-  }
-}, 1000);
-</script>
+	<footer>
+		<div>
+			<nav>
+				<a href="">Link</a>
+				<a href="">Link</a>
+				<a href="">Link</a>
+				Copyright &copy; 2014
+			</nav>
+		</div>
+	</footer>
 
 </body>
 </html>
