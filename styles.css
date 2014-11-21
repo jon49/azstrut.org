@@ -52,7 +52,24 @@ main {
 	display: inline-block;
 	width: 250px;
 	height: 400px;
+	margin: 10px
 }
 
-.about {
+.breakouts .about {
+	background-color: lightgreen;
 }
+
+.breakouts .donate {
+	background-color: lightblue;
+}
+
+.breakouts .programs {
+	background-color: lightpink;
+}
+
+
+
+
+
+
+
