@@ -11,6 +11,8 @@ header.primary-header {
 	background: radial-gradient(transparent, rgba(51, 0, 102, 0.5)), url("/images/child.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	-webkit-box-shadow: 0 0 15px -5px #000000;
+	box-shadow: 0 0 15px -5px #000000;
 }
 
 div.top-nav {
@@ -159,7 +161,7 @@ main {
 	list-style-type: none;
 }
 
-main div:last-child {
+div.crf {
 	text-align: center;
 	font-size: 10pt; 
 	font-weight: 400;
@@ -185,6 +187,36 @@ footer nav a {
 footer nav a:hover {
 	color: rgb(22, 6, 39);
 	background-color: white;
+}
+
+/* About Us Page*/
+main > div {
+	width: 960px; 
+	margin: 0 auto; 
+	overflow: hidden;
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+	font-weight: 300;
+}
+
+main > div h2, h3 {
+	font-weight: 300;
+}
+
+.sponsors ul {
+	list-style-type: none;  
+}
+
+div.about-us {
+	float: left;
+	width: 450px; 
+	font-weight: 300;
+}
+
+div.sponsors {
+	float: right;
+	width: 450px; 
+	font-weight: 300;
 }
 
 
